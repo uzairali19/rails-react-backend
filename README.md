@@ -2,16 +2,14 @@
 
 > This app uses `Rails` and sets up the `React` in the front-end. It further takes the `Redux` library and sets up a dummy backend server to check if the react app is able to communicate with the rails backend server. This is strictly an api model so nothing is displayed in the frontend views of the rails application itself.
 
+## Front-end 
+
+The frontend demo of this app can be found [Here](https://github.com/uzairali19/rails-react-frontend)
+
 ## Built With
 
-- Javascript
-- HTML
-- CSS
-- React
-- React Router Dom
-- Redux
 - Rails
-- Webpacker
+- Ruby
 
 ## Getting Started
 
